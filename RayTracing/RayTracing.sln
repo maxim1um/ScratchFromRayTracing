@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InOneWeek", "InOneWeek\InOn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "imgui", "imgui\imgui.vcxproj", "{3AA7838C-5381-4AA4-BD61-D1CF955FB2A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample", "Sample\Sample.vcxproj", "{9F439F68-FB4C-4920-97AE-62CFAD085709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{3AA7838C-5381-4AA4-BD61-D1CF955FB2A5}.Debug|x64.Build.0 = Debug|x64
 		{3AA7838C-5381-4AA4-BD61-D1CF955FB2A5}.Release|x64.ActiveCfg = Release|x64
 		{3AA7838C-5381-4AA4-BD61-D1CF955FB2A5}.Release|x64.Build.0 = Release|x64
+		{9F439F68-FB4C-4920-97AE-62CFAD085709}.Debug|x64.ActiveCfg = Debug|x64
+		{9F439F68-FB4C-4920-97AE-62CFAD085709}.Debug|x64.Build.0 = Debug|x64
+		{9F439F68-FB4C-4920-97AE-62CFAD085709}.Release|x64.ActiveCfg = Release|x64
+		{9F439F68-FB4C-4920-97AE-62CFAD085709}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
